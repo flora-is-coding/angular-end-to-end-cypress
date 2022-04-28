@@ -11,6 +11,7 @@ describe('Adventure', () => {
     })
 
     it('should visit CarvedRock homepage', () => {
+        
         homePage.visit();
     });
 
